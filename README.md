@@ -1,0 +1,1 @@
+# Tech_FactoryMethod-ts
